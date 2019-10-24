@@ -1,5 +1,43 @@
 /*
  c85948 = vermelho --> texto
  destacado
- c85948 = azul -- titulos
+ 7b9dc3 = azul -- titulos
 */
+.titulo-principal{
+    padding-left: 20px;
+    color: #c85948;
+}
+#banner{
+    width: 100%;
+}
+.principal{
+    background: #cccccc;
+    padding: 30px;
+}
+.titulo-centralizado{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+#missao{
+    font-size: 20px;
+}
+em strong{
+    color: red
+}
+.beneficios{
+    padding: 20px;
+}
+.imagem-beneficios{
+    width: 50%;
+}
+ul{
+    display: inline-block;
+    width: 20%;
+    vertical-align: top;
+    margin-right: 15%;
+}
+.itens{
+    font-style: italic;
+}
